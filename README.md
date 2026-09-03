@@ -73,6 +73,8 @@ The complete Tableau packaged workbook is available in this repository:
 
 `Google_Play_Store_App_Insights.twbx`
 
+![Google Play Store App Insights Dashboard](Google_Play_Store_App_Insights_Dashboard.png)
+
 ## Author
 
 **Pallugulla Harish Reddy**
